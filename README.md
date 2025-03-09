@@ -1,7 +1,7 @@
 ### ¿Cuál es la mejor hora y día para publicar en Instagram para maximizar el engagement, el alcance y las ventas?
 
 # Contexto
-Un amigo, a quien llamaremos "el cliente," tiene una tienda que vende productos literarios, promocionados y vendidos principalmente a través de Instagram. Después de probar diferentes horarios y días de publicación, los resultados siguen siendo inconsistentes y, a veces, incluso negativos. Aunque existen numerosos artículos y guías sobre los mejores momentos para publicar, la mayoría se basan en cuentas con audiencias muy diferentes, lo que hace que la información no sea útil para su caso específico.
+El cliente tiene una tienda que vende productos literarios, promocionados y vendidos principalmente a través de Instagram. Después de probar diferentes horarios y días de publicación, los resultados siguen siendo inconsistentes y, a veces, incluso negativos. Aunque existen numerosos artículos y guías sobre los mejores momentos para publicar, la mayoría se basan en cuentas con audiencias muy diferentes, lo que hace que la información no sea útil para su caso específico.
 
 # Objetivo
 El objetivo de este proyecto es identificar y predecir la mejor combinación de día y hora para publicar con el fin de lograr una mayor interacción (me gusta, comentarios, vistas) y, en consecuencia, aumentar el alcance y las ventas de la tienda literaria del cliente.

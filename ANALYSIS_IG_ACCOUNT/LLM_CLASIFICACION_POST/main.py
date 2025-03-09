@@ -10,7 +10,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 def main():
     # Cargamos el CSV con los datos
-    df = pd.read_csv(r"C:\Users\Yeray\Desktop\DATA_SCIENCE_ML\IG-Engagemente-Insights\IG-Engagement-Insights\DATA\CT\CT_SOLO_PROMPT.csv")
+    df = pd.read_csv(r"C:\Users\Yeray\Desktop\DATA_SCIENCE_ML\IG-Engagemente-Insights\IG-Engagement-Insights\ANALYSIS_IG_ACCOUNT\DATA_CT\CT_SOLO_PROMPT.csv")
 
     os.makedirs("output", exist_ok=True)
     output_path = os.path.join("output", "clasificacion_publicaciones.csv")

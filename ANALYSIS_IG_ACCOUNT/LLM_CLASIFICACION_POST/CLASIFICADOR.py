@@ -1,7 +1,7 @@
 import os
 import requests
 from dotenv import load_dotenv
-from PROMPT import prompt 
+from PROMPT import prompt_completo, prompt_simple 
 
 load_dotenv()
 
@@ -26,7 +26,28 @@ def clasifica_post(post_id, caption):
         return f"{post_id},error,error,{caption}"
 
     # Prepara el prompt para un solo post
-    prompt_text = prompt.format(post_id=post_id, caption=caption)
+    prompt_text = f"""
+Eres un especialista en clasificar publicaciones de Instagram.
+
+Tengo una sola publicación con:
+id: {post_id}
+caption: "{caption}"
+
+Debes devolverme en CSV una sola línea con 4 columnas:
+id,tipo_de_publicacion,tipo_de_producto,caption
+
+Reglas:
+1. 'tipo_de_publicacion' puede ser: "proceso de creacion", "novedades", "promocion" o "libros" si habla acerca de libros en general etc.
+2. 'tipo_de_producto' puede ser: "velas", "marcapaginas", "fundas", "sujetapaginas", "libros", "multitipo" (si hay varios productos a la vez o no se pudo clasificar).
+3. Si la publicación habla de varias cosas, elige la categoría predominante.
+4. Devuelve exclusivamente la línea CSV (sin texto adicional).
+5. Si no puedes clasificar, pon "error" en esas columnas.
+
+Ejemplo de salida para un post:
+1,novedades,velas,"Esta es la descripción..."
+
+Ahora, clasifica la publicación dada:
+"""
 
     # Endpoint de la API de PaLM/Gemini
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"

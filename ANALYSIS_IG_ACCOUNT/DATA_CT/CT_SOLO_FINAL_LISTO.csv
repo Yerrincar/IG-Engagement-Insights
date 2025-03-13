@@ -1,30 +1,30 @@
-commentsCount,likesCount,type,hasMusic,num_hashtags,num_images,hashtags_list,dia_semana,hora,id,franja_horaria
-11,77,Sidecar,0,9,2,"['libros', 'acotar', 'rhysand', 'feyre', 'marcapaginas', 'artesanía', 'madera', 'hechoamano', 'lectura']",Jueves,19:47:30,0,19-20
-4,36,Image,0,10,1,"['acotar', 'marcapaginas', 'libros', 'feyre', 'rhysand', 'unacortederosasyespinas', 'lecturacozy', 'lecturas', 'bookstagram', 'booktok', 'books']",Jueves,10:59:52,1,11:00
-10,44,Sidecar,0,5,2,"['binding13', 'libros', 'marcapaginas', 'handmade', 'lecturas']",Jueves,09:33:38,2,9:30
-8,22,Video,1,7,0,"['libros', 'binding13', 'chloewalsh', 'artesanía', 'hechoamano', 'cozy', 'regalos']",Domingo,14:46:01,3,14:00
-18,45,Sidecar,0,0,4,[],Martes,09:13:08,4,9:00
-23,47,Sidecar,0,8,5,"['libros', 'lecturas', 'floral', 'primavera', 'paginas', 'artesanía', 'cozy', 'aesthetic']",Martes,09:26:20,5,9:30
-16,60,Sidecar,0,0,5,[],Jueves,09:26:29,6,9:30
-13,23,Video,1,10,0,"['libros', 'velas', 'lectura', 'cozy', 'artesanía', 'hechoamano', 'regalos', 'bookstagram', 'booktok', 'books', 'natural', 'naturaleza']",Miércoles,10:36:33,7,11:00
-10,34,Video,1,8,0,"['velas', 'libros', 'hechoamano', 'sanvalentin', 'regalos', 'lectura', 'bookstagram', 'cozy']",Jueves,09:36:55,8,9:30
-6,41,Image,0,0,1,[],Martes,09:51:02,9,10:00
-9,39,Sidecar,0,0,5,[],Miércoles,13:01:52,10,13:00
-6,42,Sidecar,0,8,6,"['velas', 'libros', 'espiritualidad', 'cozy', 'fantasía', 'lectura', 'aesthetic', 'historia']",Jueves,08:36:29,11,antes de 8:45
-4,60,Sidecar,0,0,2,[],Miércoles,13:39:02,12,14:00
-2,47,Image,0,0,1,[],Domingo,21:24:52,13,20+
-12,34,Video,1,9,0,"['libros', 'artesanía', 'personalizado', 'elarchivodelastormentas', 'brandonsanderson', 'madera', 'lectura', 'cozy', 'marcapaginas']",Jueves,11:07:09,14,11:00
-8,34,Image,0,6,1,"['fundasliterarias', 'libros', 'bookstagram', 'lecturacozy', 'hechoamano', 'lectura']",Miércoles,09:00:32,15,9:00
-4,29,Video,1,10,0,"['sanvalentin', 'amorporloslibros', 'regalos', 'libros', 'bookstagram', 'artesanía', 'lectura', 'hechoamano', 'madera', 'marcapaginas']",Martes,14:07:46,16,14:00
-9,54,Video,1,6,0,"['lectorescozy', 'amorporloslibros', 'fantasíayromance', 'lecturainspiradora', 'libros', 'librosquemarcan']",Jueves,08:09:49,17,antes de 8:45
-20,40,Sidecar,0,9,8,"['libros', 'artesanía', 'natural', 'lecturacozy', 'naturaleza', 'madera', 'original', 'imaginacion', 'hechoamano']",Martes,09:00:31,18,9:00
-9,61,Sidecar,0,0,9,[],Lunes,18:47:31,19,18-19
-6,45,Image,0,6,1,"['libros', 'powerless', 'lectura', 'regalos', 'hechoamano', 'artesanía']",Martes,11:37:32,20,12:00
-13,26,Video,1,6,0,"['libros', 'lectura', 'artesanía', 'cozy', 'regalos', 'marcapaginas']",Sábado,12:00:30,22,12:00
-15,53,Sidecar,0,10,2,"['libros', 'lectora', 'lectura', 'acotar', 'alasdesangre', 'artesanía', 'handmade', 'original', 'llaveros', 'marcapaginas']",Miércoles,09:31:56,23,9:30
-1,20,Video,1,4,0,"['libros', 'cozy', 'lectura', 'frasesbonitas']",Martes,19:04:54,24,19-20
-2,25,Image,0,4,1,"['acogedor', 'libros', 'cozy', 'descanso']",Jueves,11:06:15,25,11:00
-4,52,Image,0,9,1,"['acotar', 'marcapaginas', 'llaveros', 'artesanía', 'hechoamano', 'lectura', 'libros', 'rhysand', 'velaris']",Miércoles,17:33:18,26,17-18
-2,22,Image,0,4,1,"['libros', 'navidad', 'lectura', 'regalos']",Martes,13:01:16,27,13:00
-2,18,Image,0,0,1,[],Lunes,13:10:03,28,13:00
-4,32,Sidecar,0,0,3,[],Lunes,21:49:51,29,20+
+commentsCount,likesCount,tipo,hasMusic,num_hashtags,num_images,dia_semana,hora,id,franja_horaria
+11,77,Sidecar,0,9,2,Jueves,19:47:30,0,19-20
+4,36,Image,0,10,1,Jueves,10:59:52,1,11:00
+10,44,Sidecar,0,5,2,Jueves,09:33:38,2,9:30
+8,22,Video,1,7,0,Domingo,14:46:01,3,14:00
+18,45,Sidecar,0,0,4,Martes,09:13:08,4,9:00
+23,47,Sidecar,0,8,5,Martes,09:26:20,5,9:30
+16,60,Sidecar,0,0,5,Jueves,09:26:29,6,9:30
+13,23,Video,1,10,0,Miércoles,10:36:33,7,11:00
+10,34,Video,1,8,0,Jueves,09:36:55,8,9:30
+6,41,Image,0,0,1,Martes,09:51:02,9,10:00
+9,39,Sidecar,0,0,5,Miércoles,13:01:52,10,13:00
+6,42,Sidecar,0,8,6,Jueves,08:36:29,11,antes de 8:45
+4,60,Sidecar,0,0,2,Miércoles,13:39:02,12,14:00
+2,47,Image,0,0,1,Domingo,21:24:52,13,20+
+12,34,Video,1,9,0,Jueves,11:07:09,14,11:00
+8,34,Image,0,6,1,Miércoles,09:00:32,15,9:00
+4,29,Video,1,10,0,Martes,14:07:46,16,14:00
+9,54,Video,1,6,0,Jueves,08:09:49,17,antes de 8:45
+20,40,Sidecar,0,9,8,Martes,09:00:31,18,9:00
+9,61,Sidecar,0,0,9,Lunes,18:47:31,19,18-19
+6,45,Image,0,6,1,Martes,11:37:32,20,12:00
+13,26,Video,1,6,0,Sábado,12:00:30,22,12:00
+15,53,Sidecar,0,10,2,Miércoles,09:31:56,23,9:30
+1,20,Video,1,4,0,Martes,19:04:54,24,19-20
+2,25,Image,0,4,1,Jueves,11:06:15,25,11:00
+4,52,Image,0,9,1,Miércoles,17:33:18,26,17-18
+2,22,Image,0,4,1,Martes,13:01:16,27,13:00
+2,18,Image,0,0,1,Lunes,13:10:03,28,13:00
+4,32,Sidecar,0,0,3,Lunes,21:49:51,29,20+

@@ -9,7 +9,7 @@ Identificar la mejor combinación de día y hora para publicar con el fin de log
 # Alcance y metodología
 Este repositorio proporciona un enfoque End-to-End de un proyecto de análisis de datos.
 
-# Parte 1: Análisis de los datos de la cuenta y visualización de resultados
+# Análisis de los datos de la cuenta y visualización de resultados
 - **Recopilación de datos (Web Scraping):** Se extraen estadísticas de todo lo relacionado a la cuenta y su engagement, asegurando el cumplimiento de las políticas de uso de datos de la plataforma. Para este fin, utilizaremos un scraper de Apify.
 
 - **Análisis, limpieza y transformación de datos:** Se utiliza Python para limpiar, preprocesar y dar formato inicial al CSV, además de añadir las columna pertinentes para el correcto análisis. Se emplea PostgreSQL para gestionar las bases de datos donde se almacenarán los resultados obtenidos y se realizarán cambios extras que sean necesarios.

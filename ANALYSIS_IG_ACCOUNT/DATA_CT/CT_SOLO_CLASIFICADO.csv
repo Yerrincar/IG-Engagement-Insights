@@ -1,29 +1,40 @@
-id,tipo_de_publicacion,tipo_de_producto
-0,promocion,marcapaginas
+﻿id,tipo_de_publicacion,tipo_de_producto
+0,novedades,velas
 1,promocion,marcapaginas
-2,novedades,marcapaginas
-3,promocion,marcapaginas
-4,novedades,velas
-5,novedades,sujetapaginas
-6,novedades,velas
+2,novedades,sujetapaginas
+3,novedades,velas
+4,promocion,multitipo
+5,promocion,velas
+6,novedades,stickers
+7,novedades,sujetapaginas
 8,promocion,velas
-9,promocion,marcapaginas
-10,promocion,velas
-11,promocion,velas
-12,promocion,marcapaginas
-13,novedades,marcapaginas
-14,proceso de creacion,marcapaginas
-15,promocion,fundas
-16,promocion,multitipo
-17,libros,libros
-18,novedades,multitipo
-19,libros,libros
-20,promocion,marcapaginas
-22,proceso de creacion,marcapaginas
-23,promocion,llaveros
-24,libros,libros
-25,libros,velas
-26,promocion,marcapaginas
-27,proceso de creacion,fundas
-28,promocion,fundas
-29,novedades,multitipo
+9,promocion,velas
+10,novedades,multitipo
+11,promocion,fundas
+12,novedades,velas
+14,promocion,velas
+15,promocion,marcapaginas
+16,promocion,marcapaginas
+17,promocion,marcapaginas
+18,promocion,fundas
+19,promocion,velas
+20,proceso de creacion,velas
+21,promocion,velas
+22,novedades,marcapaginas
+23,promocion,marcapaginas
+24,promocion,fundas
+25,promocion,marcapaginas
+26,proceso de creacion,marcapaginas
+27,promocion,marcapaginas
+28,libros,libros
+29,libros,libros
+30,novedades,marcapaginas
+31,promocion,multitipo
+32,novedades,multitipo
+34,proceso de creacion,marcapaginas
+35,libros,multitipo
+36,proceso de creacion,fundas
+37,promocion,marcapaginas
+38,promocion,multitipo
+39,libros,libros
+40,promocion,llaveros

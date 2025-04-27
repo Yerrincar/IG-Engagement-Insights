@@ -1,6 +1,6 @@
 # Análisis de Mejores Horarios y Días para Publicar en Instagram
 
-### 📊 Proyecto End-to-End de Análisis de Engagement y Ventas. Puede encontrar el dashboard interactivo aquí.
+### Proyecto End-to-End de Análisis de Engagement y Ventas. Puede encontrar el dashboard interactivo [aquí](https://app.powerbi.com/groups/me/reports/235ce505-39a3-4b49-996a-6092c074d627/3523f9100989bb7d9b6e?experience=power-bi).
 ![Vista previa del Dashboard](ANALYSIS_IG_ACCOUNT/DASHBOARDS/IG-Insights-Dashboard.png)
 ---
 ## Visión General

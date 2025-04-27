@@ -26,12 +26,12 @@ Se implementa una solución completa de recopilación, procesamiento, análisis 
 ### Día y Hora Óptimos
 
 - Las publicaciones realizadas los **miércoles a las 18:00h** mostraron un **incremento del 35% en engagement** comparado con la media semanal.
-- **Domingos entre las 10:00h y 12:00h** también generan un **25% más de guardados y compartidos**, impulsando indirectamente el alcance.
+- **Domingos a partir de las 20:00** también generan un **20% más de Likes** en comparación a la media del resto de días.
 
 ### Tipo de Publicación y Producto
 
 - **Carrusel** que promocionan libros de autoayuda generaron un **47% más de interacción** que publicaciones de un solo producto.
-- **Reels** tienen el mejor rendimiento en nuevos seguidores, con un crecimiento semanal del **12%** tras su implementación.
+- **Velas** tienen la mejor constancia respecto a engagement, con un **50%** más de ventas respecto al resto de productos .
 
 ### Tendencias a lo largo de la semana
 

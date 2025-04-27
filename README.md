@@ -1,7 +1,7 @@
 # Análisis de Mejores Horarios y Días para Publicar en Instagram
 
 ### 📊 Proyecto End-to-End de Análisis de Engagement y Ventas. Puede encontrar el dashboard interactivo aquí.
-
+![Vista previa del Dashboard](ANALYSIS_IG_ACCOUNT/DASHBOARDS/IG-Insights-Dashboard.png)
 ---
 ## Visión General
 
